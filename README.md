@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Refund By Location.
+## Overview
+The refund by location smart contract is aimed to be used when one party agrees to pay another party for being present in a certain location for a period of time. An example of such transaction could be between an employer and its employees. 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+## Table of Contents
